@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controllers",
+    "\\Models",
+    "\\Services",
     "\\Views",
     "\\Views\\Home"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
